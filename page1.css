@@ -1,0 +1,29 @@
+/*body {
+  margin: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background: url('images/wed.jpg') no-repeat center center fixed;
+  background-size: cover;
+  background:linear-gradient(to right, #ffcccb, #87cefa);
+  filter: brightness(120%); /* Increase brightness for a more vibrant look */
+/*}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content:center;
+ /* height: 100vh;
+  background:white /* Add a semi-transparent white background for better readability */
+/*}*/
+
+button {
+  padding: 10px 20px;
+  font-size: 1em;
+  cursor: pointer;
+  
+}
+
+.event-info{
+  justify-content: right
+};
+
